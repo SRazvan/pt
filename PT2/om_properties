@@ -1,0 +1,3 @@
+user=root
+password=rootpw
+dburl=jdbc:mysql://localhost:3306/ordermanagement?characterEncoding=UTF-8&useSSL=false
